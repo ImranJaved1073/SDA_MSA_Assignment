@@ -1,0 +1,6 @@
+@SDA_MSA_Assignment_HostAddress = http://localhost:5057
+
+GET {{SDA_MSA_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
